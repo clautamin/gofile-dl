@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Partial and finished downloads
+*.part
+downloads/
+
+# Personal link lists (keep the example)
+urls.txt
+
+# Secrets and AI tool settings
+.env
+.env.*
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

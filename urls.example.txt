@@ -1,0 +1,4 @@
+# One gofile link per line. Lines starting with # are ignored.
+# Add a password after a space if the link needs one.
+https://gofile.io/d/AbC123
+https://gofile.io/d/XyZ789 secretpassword
